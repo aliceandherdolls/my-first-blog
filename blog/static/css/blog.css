@@ -4,6 +4,11 @@ h1 a, h2 a {
 body {
     padding-left: 15px;
 }
+
+
+img {
+  width: 250px;
+}
 .page-header {
     background-color: #E0B8EB;
     margin-top: 0;
