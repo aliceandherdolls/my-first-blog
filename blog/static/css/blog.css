@@ -10,7 +10,8 @@ img {
   width: 330px;
 }
 .page-header {
-    background-color: #E0B8EB;
+  text-align: center;
+    background-color: #D2ACDC;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
